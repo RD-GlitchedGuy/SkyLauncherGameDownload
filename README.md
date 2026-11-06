@@ -1,2 +1,0 @@
-# SkyLauncherGameDownload
-just a lib
